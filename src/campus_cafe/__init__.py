@@ -1,0 +1,1 @@
+"""Campus cafe launch brief project."""
